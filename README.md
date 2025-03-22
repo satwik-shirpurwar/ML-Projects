@@ -1,2 +1,2 @@
 # ML-Projects
-Basic ML projects
+All ML Projects Classification and Regression
